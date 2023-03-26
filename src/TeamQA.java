@@ -20,6 +20,10 @@ public class TeamQA {
 
     //main method
     public static void main(String[] args) {
+        if(c>=18) System.out.println("yyy");
+
+
+
 //        System.out.println(input.charAt(34));                              //D?    gives the character at # specified
 //        System.out.println(input.codePointAt(14));                         //D?    unicode of l (#14) is 108
 //        System.out.println(input.codePointBefore(14));                     //D?    unicode of p (#13) is 112
